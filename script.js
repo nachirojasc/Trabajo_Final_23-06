@@ -11,13 +11,13 @@ new Chart(document.getElementById("hola"), {
 
                     datasets: [
                         {
-                            label: "editorial",
+                            label: "Editorial",
                             data: [1, 2, 14, 15, 12],
                             borderWidth: 1,
                             backgroundColor:"#48188C"
                         },
                         {
-                            label: "tipografia",
+                            label: "Tipografía",
                             data: [0, 1, 6, 6, 11],
                             borderWidth: 1,
                             backgroundColor:"#C7C6C4"
@@ -51,13 +51,13 @@ new Chart(document.getElementById("hola"), {
 
                     datasets: [
                         {
-                            label: "editorial",
+                            label: "Editorial",
                             data: [2, 3, 10, 14, 12, 3],
                             borderWidth: 1,
                             backgroundColor:"#48188C"
                         },
                         {
-                            label: "tipografia",
+                            label: "Tipografía",
                             data: [1, 1, 5, 6, 5, 6],
                             borderWidth: 1,
                             backgroundColor:"#C7C6C4"
