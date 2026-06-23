@@ -96,7 +96,7 @@ fetch(URL)
                 <td>${x["Formato Específico"]}</td>
                 <td>${x["semester"]}</td>
                 <td>${x["grade"]}</td>
-				<td>${x["repository"]}</td>
+				
             </tr>`;
         });
     })
